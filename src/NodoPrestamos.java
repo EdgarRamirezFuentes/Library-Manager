@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package proyecto.pkgfinal.estructura.de.datos;
 
 /**
  *
